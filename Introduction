@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WEBPROG IT243</title>
+</head>
+<body>
+
+<h1>Personal Profile Web page of Patrick Pahayupan </h1>
+<p>
+
+About Me<br>
+ ( Do not include birthdate / age / contact information)<br>
+Education / Achievements<br>
+BSIT IN ASIA PACIFIC COLLEGE<br>
+IT Experience<br>
+ HAS A KNOWLEDGE ABOUT 4 CODE LANGUAGE SUCH AS JAVA, JAVASCRIPT, C++, PYTHON<br>
+Hobbies & Interests<br>
+Goals In Life / Dream<br>
+ TO BE SUCCESSFUL IN LIFE<br> TO HAVE A BIGBIKE<br>
+Picture Gallery<br>
+ <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Girl with a jacket" width="500" height="600">
+</p>
+
+
+  
+</body>
+</html>
